@@ -1,5 +1,5 @@
 baseURL = "https://connorcantrell.com/"
-title = "The Floating Pendulum"
+title = "Hello, I'm Connor"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -8,7 +8,7 @@ footnoteReturnLinkContents = "^"
 
 [author]
   name = "Connor Cantrell"
-abstract = "I'm a self taught software developer and an HVAC specialist located in the San Francisco Bay. A retired NASCAR driver who likes to ride motorcycles through the mountains or down the coast."
+abstract = "I'm a self taught software developer and an HVAC specialist located in the San Francisco Bay Area. A retired NASCAR driver who likes to ride motorcycles through the mountains or down the coast."
 
 [taxonomies]
 category = "categories"
