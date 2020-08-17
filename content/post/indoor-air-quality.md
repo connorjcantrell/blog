@@ -1,6 +1,6 @@
 +++
 author = "Connor Cantrell"
-title = "Post-Pandemic Indoor Air Quality"
+title = "Optimal Indoor Air Quality in 2020"
 date = "2020-08-16"
 description = "After COVID-19, traditional air filtration systems may not be good enough."
 tags = [
