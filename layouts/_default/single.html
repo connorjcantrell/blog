@@ -1,15 +1,5 @@
 {{ define "main" }}
   <div class="container" role="main">
-    <section id="main">
-      <h1 id="title">{{ .Title }}</h1>
-      <div>
-        <article id="content">
-           {{ .Content }}
-        </article>
-      </div>
-   </section>
-
-
     <article class="article" class="blog-post">
       <div class="postmeta">
         {{ partial "postmeta.html" . }}
