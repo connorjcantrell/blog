@@ -15,7 +15,7 @@ series = ["HVAC Health"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-Health conscious building owners and homeowners are upgrading thier HVAC systems with germicidal ultraviolet lights and hospital grade filters. In this article, I will introduce you to the products used by HVAC professionals, where to install necessary components, and how to calculate electrical constraints.
+Health conscious building owners and homeowners are upgrading their HVAC systems with germicidal ultraviolet lights and hospital grade filters. In this article, I will introduce you to the products used by HVAC professionals, where to install necessary components, and how to calculate electrical constraints.
 <!--more-->
 
 
