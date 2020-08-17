@@ -1,4 +1,4 @@
-baseURL = "https://connorcantrell.com"
+baseURL = "https://connorcantrell.com/"
 title = "The Floating Pendulum"
 paginate = 3
 languageCode = "en"
